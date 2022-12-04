@@ -1,4 +1,6 @@
- 
-.red {
-        color: red;
+
+#red {
+        color: white;
+        font-family: sans-serif;
+        font-size: 5em;
 }
